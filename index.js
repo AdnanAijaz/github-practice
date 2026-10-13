@@ -14,3 +14,5 @@ function multiply(a,b){
 }
 
 multiply(5,4);
+
+console.log("new feature");
