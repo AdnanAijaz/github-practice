@@ -8,3 +8,9 @@ function add(a,b){
 }
 
 add(5,2);
+
+function multiply(a,b){
+    return a*b;
+}
+
+multiply(5,4);
